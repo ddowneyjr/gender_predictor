@@ -2,6 +2,6 @@
 ## Credit given in the .py and .ipynb files
 
 ## Future work
-# - Improve results (currently very inconsistent)
-# - Add a way to include the 'Index' category which to improve results
-# - Improve the neural network
+### - Improve results (currently very inconsistent)
+### - Add a way to include the 'Index' category which to improve results
+### - Improve the neural network
