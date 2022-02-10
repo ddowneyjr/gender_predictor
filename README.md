@@ -3,5 +3,7 @@
 
 ## Future work
 ### - Improve results (currently very inconsistent)
-### - Add a way to include the 'Index' category which to improve results
+### - Add a way to include the 'Index' category to improve results
 ### - Improve the neural network
+### - Add user input to enter weight and height information 
+### - Try to add neurons
